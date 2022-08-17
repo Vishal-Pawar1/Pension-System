@@ -1,0 +1,70 @@
+.bg-dark-blue {
+  background-color: darkblue;
+  color: white;
+}
+
+.bg-dark-blue:hover {
+  background-color: blue;
+}
+
+/* .curved-div {
+  padding-top: 1.2rem;
+  padding-bottom: 1.2rem;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+} */
+
+.outer-card-div {
+  /* background-color: rgb(246, 238, 227);
+  border-style: none; */
+}
+
+/* .inner-card-div {
+  padding-top: 0%;
+  background-color: rgb(246, 238, 227);
+  border-style: none;
+} */
+
+#pension-amount {
+  /* height: 25em;
+    /* background-image: url("../../../assets/images/2.jpg"); */
+  /* background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;  */
+}
+
+/* #process-pension {
+  height: 25em;
+  background-image: url("../../../assets/images/3.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+} */
+.align {
+  height: 600px;
+  align-items: end;
+  padding-bottom: 100px;
+}
+
+.bg-img {
+  background-image: url("https://images.unsplash.com/photo-1633158829875-e5316a358c6f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+
+  /* opacity: 0.2; */
+
+  background-size: cover;
+  background-position: center;
+  background-color: whitesmoke;
+  background-repeat: no-repeat;
+}
+
+.bg-color {
+  color: white;
+  font-size: x-large;
+  text-decoration-style: solid;
+}
+
+.bg-color:hover {
+  background-color: black;
+  color: white;
+}

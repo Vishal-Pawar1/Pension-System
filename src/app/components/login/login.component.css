@@ -1,0 +1,17 @@
+.container-body {
+  display: flex;
+  justify-content: right;
+  height: 650px;
+
+  color: #fff;
+  background-image: url("https://img.freepik.com/premium-photo/retirement-label-jar-filled-with-money-top-view_23-2148305888.jpg?w=996");
+
+  background-position: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.outer-div {
+  color: black;
+  background: rgba(255, 255, 255, 0.5);
+}
