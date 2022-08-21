@@ -21,9 +21,9 @@
 #  post_build:
 #    commands:
 #      - echo Build completed on `date`
-#      - docker push 156962844638.dkr.ecr.ap-south-1.amazonaws.com/nagarajar-pension-management-system-registry:authorization-service
+#      - docker push 156962844638.dkr.ecr.ap-south-1.amazonaws.com/pension-management-system-registry:authorization-service
 #      - echo Writing definition files
-#      - printf '[{"name":"ij028-authorization-service-container","imageUri":"%s"}]' 156962844638.dkr.ecr.ap-south-1.amazonaws.com/nagarajar-pension-management-system-registry:authorization-service > taskdefinition.json
+#      - printf '[{"name":"ij028-authorization-service-container","imageUri":"%s"}]' 156962844638.dkr.ecr.ap-south-1.amazonaws.com/pension-management-system-registry:authorization-service > taskdefinition.json
 #
 #artifacts:
 #  files: authorization-service/taskdefinition.json
